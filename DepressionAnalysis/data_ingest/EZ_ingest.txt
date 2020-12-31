@@ -1,0 +1,4 @@
+Because my input was under 4000 lines, I simply moved it into HDFS using the command.
+hdfs dfs -put DepressionCovidInfo.txt /user/ea1787/Project1
+Here is the link to the original data set:
+https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp
